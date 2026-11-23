@@ -3,7 +3,7 @@ const assignments = [
     // CSS ASSIGNMENTS (NEWEST FIRST)
     
     {
-        title: 'CSS-Task-8',
+        title: 'CSS-Task-9',
         subject: 'CSS',
         github: 'https://github.com/aliyanshaikhajs2-coder/all-assinement.git',
         live: 'https://csstask9.vercel.app',
